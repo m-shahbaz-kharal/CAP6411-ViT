@@ -1,0 +1,4 @@
+*.pt
+models
+wandb
+.vscode
